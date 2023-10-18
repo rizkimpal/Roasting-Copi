@@ -1,0 +1,45 @@
+{
+    "name": "Roasting COpi",
+    "details": "Roasting copi gas",
+    "id": "roastingcopi",
+    "version": "1",
+    "author": "Kimpal",
+    "license": "Apache License. Version 2.0 http://www.apache.org/licenses/LICENSE-2.0",
+    "model": {
+        "file": "Model.tflite",
+        "backend": "tflite",
+        "quantized": false,
+        "type": "image.classification.imagenet"
+    },
+    "inputs": [
+        {
+            "name": "image",
+            "type": "image",
+            "shape": [
+                224,
+                224,
+                3
+            ],
+            "format": "RGB",
+            "normalize": {
+                "scale": 0.0078,
+                "bias": {
+                    "r": -1,
+                    "g": -1,
+                    "b": -1
+                }
+            }
+        }
+    ],
+    "outputs": [
+        {
+            "name": "classification",
+            "type": "array",
+            "shape": [
+                1,
+                1000
+            ],
+            "labels": "labels.txt"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594136423946",
+    "project_id": "cobalagi-a79e3",
+    "storage_bucket": "cobalagi-a79e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594136423946:android:21816adee4a26b466bc9f3",
+        "android_client_info": {
+          "package_name": "com.roastingcopi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5aekm0GrPaQiRE1eWyYtlT6jnjnLM5qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

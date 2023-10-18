@@ -1,0 +1,7 @@
+#Wed Oct 18 17:19:30 ICT 2023
+base.0=D\:\\KULIAHHHHHHHHH\\Projectkan Pokoke\\Roasting Kopi\\Roasting filler Native\\RoastingCopi\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=D\:\\KULIAHHHHHHHHH\\Projectkan Pokoke\\Roasting Kopi\\Roasting filler Native\\RoastingCopi\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

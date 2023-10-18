@@ -1,0 +1,4 @@
+0 GreenBean
+1 Light
+2 Medium
+3 Dark

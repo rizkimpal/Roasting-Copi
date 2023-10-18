@@ -1,0 +1,47 @@
+com.roastingcopi.app-jetified-firebase-common-20.3.3-0 C:\Users\Lenovo\.gradle\caches\transforms-3\04618219489c9d9e3066293e05e86ee0\transformed\jetified-firebase-common-20.3.3\res
+com.roastingcopi.app-lifecycle-viewmodel-2.3.1-1 C:\Users\Lenovo\.gradle\caches\transforms-3\1fc8688fde2426cf6cebbe1538f846e3\transformed\lifecycle-viewmodel-2.3.1\res
+com.roastingcopi.app-transition-1.2.0-2 C:\Users\Lenovo\.gradle\caches\transforms-3\1fd6f116bede008e2cc370fcf48a0a1a\transformed\transition-1.2.0\res
+com.roastingcopi.app-jetified-tracing-1.1.0-3 C:\Users\Lenovo\.gradle\caches\transforms-3\3ab7b6adef233c4919affa2b3601acb6\transformed\jetified-tracing-1.1.0\res
+com.roastingcopi.app-material-1.1.0-4 C:\Users\Lenovo\.gradle\caches\transforms-3\3b154b3d0fec1a41e0cc514b1d732555\transformed\material-1.1.0\res
+com.roastingcopi.app-jetified-play-services-basement-18.2.0-5 C:\Users\Lenovo\.gradle\caches\transforms-3\4c98ac1678e91268ed33f9d3ff7f04ab\transformed\jetified-play-services-basement-18.2.0\res
+com.roastingcopi.app-lifecycle-runtime-2.4.0-6 C:\Users\Lenovo\.gradle\caches\transforms-3\55d21f34dc11032c5eb8f2c0d378c5e3\transformed\lifecycle-runtime-2.4.0\res
+com.roastingcopi.app-recyclerview-1.1.0-7 C:\Users\Lenovo\.gradle\caches\transforms-3\6688c07460d36865ab1f2c31e383acfc\transformed\recyclerview-1.1.0\res
+com.roastingcopi.app-jetified-autofill-1.1.0-8 C:\Users\Lenovo\.gradle\caches\transforms-3\6820bbc1c25155b23fb0c9ae73606296\transformed\jetified-autofill-1.1.0\res
+com.roastingcopi.app-jetified-emoji2-views-helper-1.0.0-9 C:\Users\Lenovo\.gradle\caches\transforms-3\6a8f7c640bdca0456c18a30ec8915d03\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.roastingcopi.app-jetified-drawee-2.5.0-10 C:\Users\Lenovo\.gradle\caches\transforms-3\71d67878d0947b6dd4463fb4081c7f6b\transformed\jetified-drawee-2.5.0\res
+com.roastingcopi.app-jetified-react-android-0.72.4-release-11 C:\Users\Lenovo\.gradle\caches\transforms-3\723cc84a69798a2f8e207035fd16b91f\transformed\jetified-react-android-0.72.4-release\res
+com.roastingcopi.app-jetified-savedstate-1.1.0-12 C:\Users\Lenovo\.gradle\caches\transforms-3\81bed22d174296e55cde40d1509d6c18\transformed\jetified-savedstate-1.1.0\res
+com.roastingcopi.app-jetified-annotation-experimental-1.1.0-13 C:\Users\Lenovo\.gradle\caches\transforms-3\83227a20576ab9694b30090c6f9ede98\transformed\jetified-annotation-experimental-1.1.0\res
+com.roastingcopi.app-core-1.7.0-14 C:\Users\Lenovo\.gradle\caches\transforms-3\845c42ea617b425eb1fb868d75dc0e08\transformed\core-1.7.0\res
+com.roastingcopi.app-jetified-viewpager2-1.0.0-15 C:\Users\Lenovo\.gradle\caches\transforms-3\8912d4903156ab930206b37b3cf09432\transformed\jetified-viewpager2-1.0.0\res
+com.roastingcopi.app-jetified-emoji2-1.0.0-16 C:\Users\Lenovo\.gradle\caches\transforms-3\917183cb484c5d05637f617d5972f589\transformed\jetified-emoji2-1.0.0\res
+com.roastingcopi.app-jetified-core-ktx-1.6.0-17 C:\Users\Lenovo\.gradle\caches\transforms-3\9781723044bf8a2815ed6db6dea771c4\transformed\jetified-core-ktx-1.6.0\res
+com.roastingcopi.app-jetified-startup-runtime-1.0.0-18 C:\Users\Lenovo\.gradle\caches\transforms-3\a549f3642c69df199a42342eeaa0464c\transformed\jetified-startup-runtime-1.0.0\res
+com.roastingcopi.app-cardview-1.0.0-19 C:\Users\Lenovo\.gradle\caches\transforms-3\b59334f691d1f8e3ef7248c9a8bb046a\transformed\cardview-1.0.0\res
+com.roastingcopi.app-jetified-play-services-base-18.0.1-20 C:\Users\Lenovo\.gradle\caches\transforms-3\b71ef279c1683b5749acb2f0aa91f82a\transformed\jetified-play-services-base-18.0.1\res
+com.roastingcopi.app-fragment-1.3.6-21 C:\Users\Lenovo\.gradle\caches\transforms-3\c6b64a8e0d83b07fa582d0d6f2aa0e8a\transformed\fragment-1.3.6\res
+com.roastingcopi.app-coordinatorlayout-1.1.0-22 C:\Users\Lenovo\.gradle\caches\transforms-3\cf7e8c4f9f2c168cf92558a6a234726c\transformed\coordinatorlayout-1.1.0\res
+com.roastingcopi.app-jetified-play-services-auth-20.6.0-23 C:\Users\Lenovo\.gradle\caches\transforms-3\db87ff055a94702a7b1149594e6a0146\transformed\jetified-play-services-auth-20.6.0\res
+com.roastingcopi.app-appcompat-1.4.1-24 C:\Users\Lenovo\.gradle\caches\transforms-3\e21a48fc07e68aa916f2f9287a02e87d\transformed\appcompat-1.4.1\res
+com.roastingcopi.app-jetified-lifecycle-process-2.4.0-25 C:\Users\Lenovo\.gradle\caches\transforms-3\f479eb7a3dc97eecd3d998321b7cd73d\transformed\jetified-lifecycle-process-2.4.0\res
+com.roastingcopi.app-jetified-appcompat-resources-1.4.1-26 C:\Users\Lenovo\.gradle\caches\transforms-3\f52f5947a10c752f9ed467e4c63e27c1\transformed\jetified-appcompat-resources-1.4.1\res
+com.roastingcopi.app-res-27 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\android\app\build\generated\res\createBundleReleaseJsAndAssets
+com.roastingcopi.app-google-services-28 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\android\app\build\generated\res\google-services\release
+com.roastingcopi.app-pngs-29 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\android\app\build\generated\res\pngs\release
+com.roastingcopi.app-resValues-30 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\android\app\build\generated\res\resValues\release
+com.roastingcopi.app-rs-31 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\android\app\build\generated\res\rs\release
+com.roastingcopi.app-mergeReleaseResources-32 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\android\app\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.roastingcopi.app-mergeReleaseResources-33 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\android\app\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.roastingcopi.app-merged_res-34 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\android\app\build\intermediates\merged_res\release
+com.roastingcopi.app-main-35 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\android\app\src\main\res
+com.roastingcopi.app-release-36 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\android\app\src\release\res
+com.roastingcopi.app-packaged_res-37 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\packaged_res\release
+com.roastingcopi.app-packaged_res-38 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\node_modules\@react-native-firebase\app\android\build\intermediates\packaged_res\release
+com.roastingcopi.app-packaged_res-39 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\node_modules\@react-native-firebase\storage\android\build\intermediates\packaged_res\release
+com.roastingcopi.app-packaged_res-40 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\node_modules\react-native-fs\android\build\intermediates\packaged_res\release
+com.roastingcopi.app-packaged_res-41 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\release
+com.roastingcopi.app-packaged_res-42 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\release
+com.roastingcopi.app-packaged_res-43 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\node_modules\react-native-screens\android\build\intermediates\packaged_res\release
+com.roastingcopi.app-packaged_res-44 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\node_modules\react-native-svg\android\build\intermediates\packaged_res\release
+com.roastingcopi.app-packaged_res-45 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\release
+com.roastingcopi.app-packaged_res-46 D:\KULIAHHHHHHHHH\Projectkan Pokoke\Roasting Kopi\Roasting filler Native\RoastingCopi\node_modules\rn-fetch-blob\android\build\intermediates\packaged_res\release
