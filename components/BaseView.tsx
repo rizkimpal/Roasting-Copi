@@ -72,8 +72,8 @@ function BaseView(props: any): JSX.Element {
   const [consoleState, setConsoleState] = useState('');
   const [runningStatus, setRunningStatus] = useState(false);
   //handle textInput
-  const [textUri, setTextUri] = useState('http://192.168.100.13');
-  const [textUri2, setTextUri2] = useState('http://192.168.100.12');
+  const [textUri, setTextUri] = useState('');
+  const [textUri2, setTextUri2] = useState('');
   //handle stopwatch
   const [isRunning, setIsRunning] = useState(false);
   const [stopwatch, setStopwatch] = useState(0);
